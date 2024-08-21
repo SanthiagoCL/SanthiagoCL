@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Olá Me chamo Santhiago
+Olá me chamo Santhiago
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Front e back-end na Rocketseat.
@@ -50,7 +50,5 @@ Olá Me chamo Santhiago
    
 
 ## Onde me encontrar
-
-
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo&logo=instagram&logoColor=white)](https://www.instagram.com/im.santhiago/)
