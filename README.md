@@ -1,4 +1,4 @@
-<h1 align="center">Olá, Meu Nome é Santhiago !</h1>
+<h1 align="center">Olá, meu nome é Santhiago !</h1>
 
 ###
 
