@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.<br>- 🎓 Cursando Técnico em desenvolvimento de sistemas na ETEC Barueri<br>-💼<br>- 🌱 Aprendendo mais sobre BOOTSTRAP, TYPESCRIPT E NODE.JS.</p>
+<p align="left">- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.<br>- 🎓 Cursando Técnico em desenvolvimento de sistemas na ETEC Barueri<br>-💼<br>- 🌱 Aprendendo mais sobre JavaScript,Vue.js E NODE.JS.</p>
 
 ###
 
